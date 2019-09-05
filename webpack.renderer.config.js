@@ -7,7 +7,7 @@ rules.push(
   },
   {
     test: /\.(ogg|mp3|wav|mpe?g)$/i,
-    use: "file-loader"
+    use: "url-loader"
   }
 );
 
