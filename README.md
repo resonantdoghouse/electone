@@ -1,7 +1,7 @@
-# Electron Tone
+# Electone
 
 Hacking away at an electron app.
-This app is built with [electronforge](https://www.electronforge.io/)
+This app is built with [electronforge](https://www.electronforge.io/) & [Tone.js](https://tonejs.github.io/)
 
 ## NPM Scripts
 
